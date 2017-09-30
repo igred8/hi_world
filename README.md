@@ -1,2 +1,2 @@
-# hi_world
-first repo
+# hi_world - branch_1
+this is the first branch of hi_world
